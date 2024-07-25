@@ -33,3 +33,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+collections:
+  campaign1:
+    output: true
+    permalink: /:collection/:path/
+  campaign2:
+    output: true
+    permalink: /:collection/:path/
