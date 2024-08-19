@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Campaign 1 Introduction"
+title: "Campaign 3"
 date: 2023-07-25
-categories: campaign1
+categories: campaign3
 ---
 Content of the post.

@@ -41,3 +41,6 @@ collections:
   campaign2:
     output: true
     permalink: /:collection/:path/
+  campaign3:
+    output: true
+    permalink: /:collection/:path/
